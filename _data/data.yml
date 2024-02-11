@@ -67,32 +67,20 @@ experiences:
     title: Academic Experiences
     info:
       - role: Summer Session, Transfer - Attend CS61C (A+) and CS161 (A)
-        time: June 2023- August 2023
+        time: June 2023 - August 2023
         company: University of California, Berkeley
         details: |
           Attend CS61C (A+) and CS161 (A)
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Research Assistant
+        time: Sept 2023 - Now
+        company: AIH Group, the Chinese University of Hong Kong
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Working in multiple projects
+      - role: Academic Research
+        time: March 2023 - Now
+        company: Virtual Body Group, Lamda Group, Nanjing University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Participating the Virtual Body Group, completeing the automatic generation function of PKISM simulator.
 
 certifications:
       title: Certifications

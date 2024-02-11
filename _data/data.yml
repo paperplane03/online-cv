@@ -14,8 +14,7 @@ sidebar:
 
     # Sidebar links
     email: unida0yo1@gmail.com
-    email: 211300069@smail.nju.edu.cn
-    phone: 
+    phone: 211300069@smail.nju.edu.cn
     timezone: China
     citizenship:
     website:
@@ -29,7 +28,7 @@ sidebar:
     stack-overflow:
     codewars:
     goodreads:
-    pdf:
+    pdf: https://github.com/paperplane03/online-cv/tree/master/assets/CV.pdf
 
     languages:
       title: Languages

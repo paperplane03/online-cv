@@ -128,21 +128,14 @@ projects:
         link: "https://github.com/paperplane03/Project_Pacman"
         tagline: "A pacman project, which can be played by human and AI algorithm. Every line is coded by me, no frame code. Implemented Methods: Dynamic Programming, DFS and BFS Search, Heuristic(A*) Search With Alpha-Beta prune, Q-Learning and Sarsa"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: NAI Inputer
+        link: "https://github.com/paperplane03/NAI_inputter"
+        tagline: "An intelligent inputter enabling you to input words, based on Viterbi Algorithm learning from wikipedia Corpus."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PA Project
+        link: "https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html"
+        tagline: "A simple but complete full-system emulator designed for teaching.I write hardware, library, OS and APP for it."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions

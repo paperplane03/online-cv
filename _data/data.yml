@@ -97,32 +97,28 @@ certifications:
       title: Awards
       list:
         - name: Bai Lu scholarship (ranked 3rd in department)
-          start: 2023.11
+          start: November 2023
           end:
           organization: Nanjing University
-        - name: Git learning
-          start: 2019
+
+        - name: Honorable Mention, The Mathematical Contest in Modeling
+          start: June 2023
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Consortium for Mathematics and its Applications
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            20% Among participants
+
+       - name: National Second prize, The Chinese Mathematics Competitions
+          start: September 2022
+          end:
+          organization: China Society for Industrial and Applied Mathematics
+          details: |
+            Less than 3% Among participants
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     I do this project as course projects.
     assignments:
       - title: PACMAN
         link: "https://github.com/paperplane03/Project_Pacman"

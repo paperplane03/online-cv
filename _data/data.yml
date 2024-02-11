@@ -115,6 +115,21 @@ certifications:
           details: |
             Less than 3% Among participants
 
+       - name: 1st prize, People's Scholarship of Nanjing University
+          start: September 2022
+          end:
+          organization: Nanjing Univesity
+
+       - name: Yongman Yang's Scholarship
+          start: September 2022
+          end:
+          organization: Nanjing Univesity
+
+       - name: Scholarship of Artificial Intelligence
+          start: June 2022
+          end:
+          organization: Nanjing Univesity
+
 projects:
     title: Projects
     intro: >
@@ -134,23 +149,19 @@ projects:
 
 
 oss:
-    title: OSS Contributions
+    title: High-score Courses
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      There is my high-score courses. My overall GPA is 3.81/4 (WES) and my ranking is 5/103.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Data Structures and Algorithm: 100
+      - title: Knowledge Representation and Processing: 100
+      - title: Introduction to Artificial Intelligence: 100
+      - title: Artificial Intelligence Programming: 99
+      - title: Introduction to Programming: 99
+      - title: Introduction to Computer Systems: 97
+      - title: Mathematical Logic: 95
+      - title: Mathematical Modeling in Computer Sciences: 95
+      - title: Discrete Mathematics: 93
 
 skills:
     title: Skills &amp; Proficiency

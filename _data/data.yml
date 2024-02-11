@@ -59,28 +59,51 @@ education:
         university: Nanjing University
         time: 2021-2025
 
-experiences:
-    title: Papers
-    info: In modifiation and progress
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 experiences:
     title: Academic Experiences
     info:
-      - role: Summer Session, Transfer - Attend CS61C (A+) and CS161 (A)
-        time: June 2023 - August 2023
-        company: University of California, Berkeley
-        details: |
-          Attend CS61C (A+) and CS161 (A)
-      - role: Research Assistant
-        time: Sept 2023 - Now
-        company: AIH Group, the Chinese University of Hong Kong
-        details: |
-          Working in multiple projects
       - role: Academic Research
         time: March 2023 - Now
         company: Virtual Body Group, Lamda Group, Nanjing University
         details: |
           Participating the Virtual Body Group, completeing the automatic generation function of PKISM simulator.
+      - role: Summer Session, Transfer
+        time: June 2023 - August 2023
+        company: University of California, Berkeley
+        details: |
+          Attend CS61C (A+) and CS161 (A)
+      - role: Research Assistant
+        time: August 2023 - Now
+        company: AIH Group, the Chinese University of Hong Kong
+        details: |
+          Working in multiple projects
+      - role: Intern
+        time: September 2023 - Now
+        company: Shanghai AI Lab
+        details: |
+          Remote Intern in AI Lab
 
 certifications:
       title: Certifications
@@ -168,28 +191,6 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

@@ -141,9 +141,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PACMAN
+        link: "https://github.com/paperplane03/Project_Pacman"
+        tagline: "A pacman project, which can be played by human and AI algorithm. Every line is coded by me, no frame code. Implemented Methods: Dynamic Programming, DFS and BFS Search, Heuristic(A*) Search With Alpha-Beta prune, Q-Learning and Sarsa"
 
       - title: DevStudio
         link: "#"

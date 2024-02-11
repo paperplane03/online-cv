@@ -1,90 +1,87 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+# Yunhua Zhong
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
+Undergraduate, Year 3
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+School of Artificial Intelligence, Nanjing University
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
+Email: 211300069 at smail.nju.edu.cn, or gmail, unida0yo1 at gmail.com
 
-## Installation
+[[Github]](https://github.com/paperplane03) 
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+I am an Junior Undergrauate major in AI@NJU. Nowadays I work as research Assitant at CUHK with Professor [Li Yu](liyu95.com).
 
-Change all the details from one place: `_data/data.yml`.
-
-### To preview/edit locally with docker
-
-```sh
-docker-compose up
-```
-
-*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
-Changes *_data/data.yml* will be visible after a while.
-
-### Local machine
-
-* Get the repo into your machine 
-
-```bash
-git clone https://github.com/sharu725/online-cv.git
-```
-
-* Install required ruby gems
-
-```bash
-bundle install
-```
-
-* Serve the site locally
-
-```bash
-bundle exec jekyll serve
-```
-
-* Navigate to `http://localhost:4000`
+My research interests include Bioinformatics and Machine Learning.
 
 
-## Skins
 
-There are 6 color schemes available:
+### Papers
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
+- In modification
 
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
 
-## Credits
 
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+### Education and Research Experience
 
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+##### University of California, Berkeley
 
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
+- **Summer Session, Transfer - Attend CS61C (A+) and CS161 (A)**, 2023.6-2023.8
 
-## Star History
+##### Virtual Body Group, Lamda Group, Nanjing University
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
+- **Academic Research**, 2023.3-2023.8
 
+##### AIH Group, the Chinese University of Hong Kong
+
+- **Research Assiatant**,  2023.9-Now
+
+##### Shanghai AI Lab
+
+- **Intern**, 2023.9-Now
+
+
+
+### Awards
+
+Bai Lu scholarship **(ranked 3rd in department)**, 2023.11
+
+Honorable Mention, The Mathematical Contest in Modeling, 2023.6
+
+National Second prize, The Chinese Mathematics Competitions, 2022.9
+
+1st prize, People's Scholarship of Nanjing University  2022.9
+
+Yongman Yang's Scholarship, 2022.9
+
+Scholarship of Artificial Intelligence, 2022.6
+
+
+
+### GPAs and Courses
+
+###### Overall GPA: 3.79/4(WES) and Ranking: 5/103
+
+
+
+##### High-score Courses:
+
+Data Structures and Algorithm: 100
+
+Knowledge Representation and Processing: 100
+
+Introduction to Artificial Intelligence: 100
+
+Artificial Intelligence Programming: 99
+
+Introduction to Programming: 99
+
+Introduction to Computer Systems: 97
+
+Discrete Mathematics: 93
+
+Mathematical Logic: 95
+
+Advanced Algebra II: 94
+
+##### Teaching Assiatant:
+
+Data Structures and Algorithm, 2023 Fall@NJU

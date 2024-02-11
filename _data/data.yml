@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: unida0yo1@gmail.com
     phone: 
-    timezone: America/Cancun Timezone
+    timezone: China
     citizenship:
     website:
     linkedin:
@@ -45,21 +45,13 @@ sidebar:
         - item: Painting
           link: https://www.pixiv.net/users/17026442
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Reading
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       I am an Junior Undergrauate major in AI@NJU. Nowadays I work as research Assitant at CUHK with Professor [Li Yu](liyu95.com). My research interests include Bioinformatics and Machine Learning.
 education:
     title: Education
     info:

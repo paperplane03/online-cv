@@ -104,7 +104,7 @@ certifications:
         end:
         organization: Nanjing China Team, Nanjing University
         details: |
-          I am responsible for dry lab parts, and our team's try-lab parts satisfies gold-medal criterion.
+          I am responsible for dry lab parts, and our team's dry-lab parts satisfies gold-medal criterion.
 
       - name: Bai Lu scholarship (ranked 3rd in department)
         start: Nov 2023
@@ -155,7 +155,7 @@ projects:
 
       - title: PA Project
         link: "https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html"
-        tagline: "A simple but complete full-system emulator designed for teaching.I write hardware, library, OS and APP for it."
+        tagline: "A simple but complete full-system emulator designed for teaching. I write hardware, library, OS and APP for it."
 
 
 oss:

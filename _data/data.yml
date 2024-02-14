@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-       I am an Year-3 Undergrauate major in AI@NJU. Nowadays I work as research Assitant at CUHK with Professor [Li Yu](https://liyu95.com). My research interests include Bioinformatics and Machine Learning.
+       I am an Year-3 Undergrauate major in AI@NJU. Nowadays I work as research Assitant at CUHK with Professor [Li Yu](https://liyu95.com). My research interests include Bioinformatics and Large Language Model.
 education:
     title: Education
     info:
@@ -97,8 +97,15 @@ experiences:
         company: Data Structure and Algorithm
 
 certifications:
-    title: Certifications
+    title: Awards
     list:
+      - name: Silver Medal, iGEM (International Genetically Engineered Machine competition)
+        start: November 2023
+        end:
+        organization: Nanjing China Team, Nanjing University
+        details: |
+          I am responsible for dry lab parts, and our team's try-lab parts satisfies gold-medal criterion.
+
       - name: Bai Lu scholarship (ranked 3rd in department)
         start: November 2023
         end:

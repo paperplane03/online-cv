@@ -95,9 +95,11 @@ experiences:
       - role: Teaching Assistant
         time: Fall 2023
         company: Data Structure and Algorithm
-      - role: Visiting Student (Mainland and Taiwan student Research Project at CUHK/內地及台灣學生暑期研究體驗計劃)
+      - role: Visiting Student
         time: June 2024 - Aug 2024
         company: the Chinese University of Hong Kong
+        details: |
+          Mainland and Taiwan student Research Project at CUHK/內地及台灣學生暑期研究體驗計劃
       - role: online Summer Camp
         time: July 2024 - Aug 2024
         company: Zhejing University
@@ -107,7 +109,7 @@ experiences:
 certifications:
     title: Awards
     list:
-      - name: Top three team, Citicup Financial Innovation Application Competition
+      - name: Top three team, Citicup Financial Innovation Competition
         start: Dec 2023
         end: May 2024
         organization: Chatwhale, Nanjing University

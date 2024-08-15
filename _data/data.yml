@@ -95,15 +95,26 @@ experiences:
       - role: Teaching Assistant
         time: Fall 2023
         company: Data Structure and Algorithm
-      - role: Visiting Student (Estimated)
+      - role: Visiting Student (Mainland and Taiwan student Research Project at CUHK/內地及台灣學生暑期
+研究體驗計劃)
         time: June 2024 - Aug 2024
         company: the Chinese University of Hong Kong
+      - role: online Summer Camp
+        time: July 2024 - Aug 2024
+        company: Zhejing University
         details: |
-          Will go CUHK summer.
+          learn the basic of Computer Vision Research
 
 certifications:
     title: Awards
     list:
+      - name: Top three team, Citicup Financial Innovation Application Competition
+        start: Dec 2023
+        end: May 2024
+        organization: Chatwhale, Nanjing University
+        details: |
+          I am responsible for training the LLM in intelligent Financial platform design.
+
       - name: Silver Medal, iGEM (International Genetically Engineered Machine competition)
         start: Nov 2023
         end:
@@ -148,8 +159,12 @@ certifications:
 projects:
     title: Projects
     intro: >
-     I do this project as course projects.
+     I do these projects as course projects.
     assignments:
+      - title: MBTI-classfication LLM
+        link: "https://github.com/paperplane03/MBTI"
+        tagline: "A finetuned LLM to classify people's MBTI by their saying."
+
       - title: PACMAN
         link: "https://github.com/paperplane03/Project_Pacman"
         tagline: "A pacman project, which can be played by human and AI algorithm. Every line is coded by me, no frame code. Implemented Methods: Dynamic Programming, DFS and BFS Search, Heuristic(A*) Search With Alpha-Beta prune, Q-Learning and Sarsa"

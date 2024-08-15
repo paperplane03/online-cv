@@ -64,7 +64,7 @@ publications:
     papers:
       - title: Learning Meaningful Representation of Single-Neuron Morphology via Large-scale Pre-training
         link: "#"
-        authors: Y Fan*,Y Li*, Y Zhong, L Hong, L Li, Y Li#. Bioinformatics, 2024. accepted
+        authors: Y Fan*,Y Li*, [Y Zhong], L Hong, L Li, Y Li#. Bioinformatics, 2024. accepted
         conference: Bioinformatics, 2024 & European Conference on Computational Biology, 2024
 
 experiences:
@@ -79,7 +79,7 @@ experiences:
         time: June 2023 - August 2023
         company: University of California, Berkeley
         details: |
-          Attend CS61C (A+) and CS161 (A)
+          Attend CS61C (A+)/Computer Sturcture and CS161/Computer Security (A)
       - role: Research Assistant
         time: August 2023 - Now
         company: AIH Group, the Chinese University of Hong Kong
@@ -211,7 +211,7 @@ skills:
       - name: Linux programming (and vim, bash...)
         level: 70%
 
-      - name: Java
+      - name: Java, Go
         level: 40%
 
 footer: >

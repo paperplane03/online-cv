@@ -62,12 +62,12 @@ education:
 publications:
     title: Publications
     intro: |
-        In progress.
+        The papers.
     papers:
-      - title: In progress or modification
+      - title: Learning Meaningful Representation of Single-Neuron Morphology via Large-scale Pre-training
         link: "#"
-        authors: 
-        conference: 
+        authors: Y Fan*,Y Li*, Y Zhong, L Hong, L Li, Y Li#. Bioinformatics, 2024. accepted
+        conference: Bioinformatics, 2024 & European Conference on Computational Biology, 2024
 
 experiences:
     title: Academic Experiences

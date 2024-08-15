@@ -183,15 +183,16 @@ oss:
     intro: >
       There is my high-score courses. My overall GPA is 3.81/4 (WES) and my ranking is 5/103.
     contributions:
-      - title: Data Structures and Algorithm - 100
-      - title: Knowledge Representation and Processing - 100
-      - title: Introduction to Artificial Intelligence - 100
-      - title: Artificial Intelligence Programming - 99
-      - title: Introduction to Programming - 99
-      - title: Introduction to Computer Systems - 97
+      - title: Data Structures and Algorithm - 100 (1st)
+      - title: Knowledge Representation and Processing - 100 (1st)
+      - title: Introduction to Artificial Intelligence - 100 (1st)
+      - title: Matrix Calculation - 99 (1st)
+      - title: Artificial Intelligence Programming - 99 (1st)
+      - title: Introduction to Programming - 99 (1st)
+      - title: Introduction to Computer Systems - 97 (1st)
       - title: Mathematical Logic - 95
       - title: Mathematical Modeling in Computer Sciences - 95
-      - title: Discrete Mathematics - 93
+      - title: Discrete Mathematics - 93 (2nd)
 
 skills:
     title: Skills &amp; Proficiency

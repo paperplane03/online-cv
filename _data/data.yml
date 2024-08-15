@@ -61,8 +61,6 @@ education:
 
 publications:
     title: Publications
-    intro: |
-        The papers.
     papers:
       - title: Learning Meaningful Representation of Single-Neuron Morphology via Large-scale Pre-training
         link: "#"
